@@ -1,2 +1,1 @@
-print("Hello")
-#this is edited on pycharm
+from random import *
